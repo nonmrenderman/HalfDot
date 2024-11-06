@@ -1,3 +1,3 @@
-HalfDot Audio player
+HalfDot Audio player [GODOT FILES]
 
 The most simple audio player
